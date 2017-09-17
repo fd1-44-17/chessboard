@@ -1,0 +1,12 @@
+.chess-table {
+    width: 100vmin;
+    height: 100vmin;
+}
+.cell {
+    width: 10%;
+    height: 10%;
+    float: left;
+}
+.black {
+    background-color: #000;
+}
